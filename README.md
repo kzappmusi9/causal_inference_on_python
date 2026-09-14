@@ -2,3 +2,4 @@
 
 ## At First
 - This is a training plan on CausalInference
+- Learn Logic and Code
